@@ -2,7 +2,7 @@ import React from 'react';
 const FeaturedCover = () => (
     <div className="relative h-96 overflow-hidden">
     <img 
-      src="src/assets/drinkloncaro_cover.jpg" 
+      src="/images/drinkloncaro_cover.jpg" 
       className="w-full h-full object-cover object-center"
       alt="Loncaro Drink Cover"
     />

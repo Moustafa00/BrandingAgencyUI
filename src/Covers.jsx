@@ -4,7 +4,7 @@ const Covers = () => (
     <div>
     <div className="relative mt-10 h-full overflow-hidden">
     <img 
-      src="src/assets/cover1.png" 
+      src="/images/cover1.png" 
       className="w-full h-full object-cover object-center"
       alt="Loncaro Drink Cover"
     />
@@ -12,14 +12,14 @@ const Covers = () => (
     
     <div className="relative h-full overflow-hidden">
     <img 
-      src="src/assets/cover2.png" 
+      src="/images/cover2.png" 
       className="w-full h-full object-cover object-center"
       alt="Loncaro Drink Cover"
     />
     </div>
     <div className="relative h-full overflow-hidden">
     <img 
-      src="src/assets/cover3.png" 
+      src="/images/cover3.png" 
       className="w-full h-full object-cover object-center"
       alt="Loncaro Drink Cover"
     />

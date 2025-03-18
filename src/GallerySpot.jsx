@@ -5,7 +5,7 @@ const GallerySpot = () => (
     <div className="mx-auto max-w-xl text-center"> 
       <div className="mb-4">
         <img 
-          src="/src/assets/logoM.png" 
+          src="/images/logoM.png" 
           alt="Logo"
           className="mx-auto size-20"
         />
@@ -20,30 +20,30 @@ const GallerySpot = () => (
     <div className="grid mt-8 md:grid-cols-9 gap-x-2 gap-y-3 ">
     <div class="col-span-1 h-40 self-end">
            <SpotlightCard 
-            image="src/assets/image1.png "  
+            image="/images/image1.png "  
           />
     </div> 
     
     <div class="col-span-3 h-115 self-end ">
            <SpotlightCard 
-            image="src/assets/image2.png "  
+            image="/images/image2.png "  
           />
     </div> 
     
     <div class="col-span-2 h-85 self-end ">
            <SpotlightCard 
-            image="src/assets/image3.png "  
+            image="/images/image3.png "  
           />
     </div> 
     
     <div class="col-span-2 h-100 self-end  ">
            <SpotlightCard 
-            image="src/assets/image4.png "  
+            image="/images/image4.png "  
           />
     </div> 
     <div class="col-span-1 h-50 self-end ">
            <SpotlightCard 
-            image="src/assets/image5.png "  
+            image="/images/image5.png "  
           />
     </div> 
     
@@ -51,31 +51,31 @@ const GallerySpot = () => (
     
     <div class="col-span-2 h-80">
            <SpotlightCard 
-            image="src/assets/image6.png "  
+            image="/images/image6.png "  
           />
     </div> 
     
     <div class="col-span-3 h-95 ">
            <SpotlightCard 
-            image="src/assets/image7.png "  
+            image="/images/image7.png "  
           />
     </div> 
     
     <div class="col-span-1 h-45 ">
            <SpotlightCard 
-            image="src/assets/image8.png "  
+            image="/images/image8.png "  
           />
     </div> 
     
     <div class="col-span-1  h-35">
            <SpotlightCard 
-            image="src/assets/image9.png "  
+            image="/images/image9.png "  
           />
     </div> 
     
     <div class="col-span-2  h-90">
            <SpotlightCard 
-            image="src/assets/image10.png "  
+            image="/images/image10.png "  
           />
     </div> 
     
