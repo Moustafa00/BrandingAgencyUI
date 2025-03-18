@@ -4,7 +4,7 @@ import GallerySpot from './GallerySpot';
 import FoodBeverageSpotlight from './FoodBeverageSpotlight';
 import FeaturedCover from './FeaturedCover';
 import Header from './Header';
-import Covers from './covers';
+import Covers from './Covers';
 import ContactUs from './ContantUs';
 import Newsletter from './Newsletter';
 import Footer from './Footer';
