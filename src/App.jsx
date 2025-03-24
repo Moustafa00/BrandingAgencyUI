@@ -4,11 +4,10 @@ import GallerySpot from './GallerySpot';
 import FoodBeverageSpotlight from './FoodBeverageSpotlight';
 import FeaturedCover from './FeaturedCover';
 import Header from './Header';
-import Covers from './Covers';
 import ContactUs from './ContantUs';
 import Newsletter from './Newsletter';
 import Footer from './Footer';
-
+import Preview from './Preview';
 
 
 function App() {
@@ -19,7 +18,7 @@ function App() {
           <FeaturedCover/>
           <FoodBeverageSpotlight/>
           <GallerySpot/>
-          <Covers/>
+          <Preview/>
           <ContactUs/>
           <Newsletter/>
           <Footer/>
